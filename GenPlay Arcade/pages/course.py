@@ -89,7 +89,7 @@ courses = [
     {"name": "Python Basics", "link": "https://share.minicoursegenerator.com/from-zero-to-python-hero-your-journey-into-th-638793539152398025", "image": "pages/Images/Python programming.jpeg"},
     {"name": "Machine Learning with Python", "link": "https://share.minicoursegenerator.com/unlocking-the-power-of-data-mastering-machine-638793545291989177", "image": "pages/Images/ML with Python.jpeg"},
     {"name": "Data Science Essentials", "link": "https://share.minicoursegenerator.com/from-data-to-decisions-mastering-the-essentia-638793559767327294", "image": "pages/Images/data science.jpeg"},
-    {"name": "Data Science Essentials", "link": "https://share.minicoursegenerator.com/data-science-essentials-with-python-from-basi-638793627007592808", "image": "pages/Images/python for DS.jpeg"}
+    {"name": "Python for Data Science", "link": "https://share.minicoursegenerator.com/data-science-essentials-with-python-from-basi-638793627007592808", "image": "pages/Images/python for DS.jpeg"}
 ]
 
 if "completed_courses" not in st.session_state:
