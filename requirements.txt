@@ -1,0 +1,12 @@
+streamlit
+streamlit_extras.metric_cards
+mysql.connector
+PyPDF2
+plotly.express
+pandas
+pygame
+google.generativeai
+random
+time
+sys
+os
