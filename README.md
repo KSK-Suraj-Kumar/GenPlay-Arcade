@@ -27,7 +27,7 @@ This approach creates an interactive and engaging gaming environment that promot
 ## Installation
 1. Clone the repository:
 ```
-git clone <repository_url>
+git clone https://github.com/KSK-Suraj-Kumar/GenPlay-Arcade.git
 ```
 2. Install dependencies:
 ```
@@ -36,7 +36,7 @@ pip install -r requirements.txt
 3. Set up MySQL database and update the connection details in the project files.
 4. Run the application:
 ```
-streamlit run Home.py
+streamlit run login.py
 ```
 
 ## Usage
